@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/e7579dc8-528b-4a2b-8951-89dd40d7aa3e
+View your app :https://community-hero-969740767990.asia-southeast1.run.app/
 
 ## Run Locally
 
